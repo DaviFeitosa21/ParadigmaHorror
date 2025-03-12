@@ -10,7 +10,7 @@ public class CameraPlayer : MonoBehaviour
 
     float rotationX = 0, rotationY = 0;
 
-    float angleYmin = -45, angleYmax = 45;
+    float angleYmin = -75, angleYmax = 75;
 
     float smoothRotx = 0, smoothRoty = 0;
 
